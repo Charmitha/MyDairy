@@ -1,6 +1,6 @@
-Username : charmitha 
-email: charumitha5garugu@gmail.com
-password : charmitha5
+Username : ******* 
+email: ***********
+password : **********
 
 ----------------------------------------
 
